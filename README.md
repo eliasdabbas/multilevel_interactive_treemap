@@ -4,7 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/3tpIMR0)
 
 
-A simple interactive app alloweing the user to select the levels (dimensions) across which to group and count the selected metric.
+A simple Plotly Dash interactive app allowing the user to select the levels (dimensions) across which to group and count the selected metric.
 
 The starting point is a table in this format:
 
@@ -34,3 +34,8 @@ As an example a report from Google Analytics can be shown:
 allowing the user to select as follows:
 
 ![](app_screenshot.png)
+
+
+Check it out here:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/3tpIMR0)
