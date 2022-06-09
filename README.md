@@ -1,6 +1,9 @@
 
 # Multilevel Interactive Treemap
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/3tpIMR0)
+
+
 A simple interactive app alloweing the user to select the levels (dimensions) across which to group and count the selected metric.
 
 The starting point is a table in this format:
